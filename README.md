@@ -1,0 +1,2 @@
+# syuuta_blenderTools
+ Blenderで衣装対応をする際に少し便利になるツール
