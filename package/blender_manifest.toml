@@ -1,0 +1,15 @@
+schema_version = "1.0.1"
+id = "syuuta_BlenderTools"
+name = "syuuta Blender Tools"
+version = "0.1.1"
+tagline = "Support Change Vertex Group Name"
+maintainer = "syuuta"
+type = "add-on"
+tags = ["Bone"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://hub.syuuta.net"
+copyright = ["2025 syuuta"]
+
+[permissions]
+files = "Import images and nodes from the included file"
