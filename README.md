@@ -16,7 +16,7 @@
 1. Blender でインポートを行う
    
 2. 下記画像のところでパラメータの設定を行う
-   ![alt text](image.png)
+   ![alt text](./images/image2.png)
 
    パラメータの設定内容
    |項目|設定内容|
